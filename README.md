@@ -60,7 +60,7 @@ Socket.IO 브로드캐스트 → 모든 참여자 지도에 표시
   - 일정 초안 생성
   - 주변 장소 추천
   - 일정 수정
-  - 등 다양한 기능 탑재 (자세한 내용 : [matetrip-ai README.md](https://github.com/NaManMu-10th-team7/matetrip-ai))
+  - 등 다양한 기능 탑재 (자세한 내용 : [matetrip-ai README.md](https://github.com/YooSungSoo/matetrip_ai))
 - **사용자 행동 추적 및 개인화**
   - RabbitMQ를 통한 비동기 이벤트 처리
   - POI 북마크, 일정 추가 등 행동 데이터 수집
