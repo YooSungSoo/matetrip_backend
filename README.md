@@ -357,7 +357,7 @@ matetrip-back/
 ---
 
 ## 🔗 Related
-1. [MateTrip AI Server](https://github.com/NaManMu-10th-team7/matetrip-ai)
+1. [MateTrip AI Server](https://github.com/YooSungSoo/matetrip_ai)
   - AI 에이전트 & 워커 서버
 
-2. [MateTrip Front](https://github.com/NaManMu-10th-team7/matetrip-frontend)
+2. [MateTrip Front](https://github.com/YooSungSoo/matetrip_frontend)
